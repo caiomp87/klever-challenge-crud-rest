@@ -15,4 +15,5 @@
 *.mod
 *.sum
 
-# vendor/
+#Environment files
+*.env
